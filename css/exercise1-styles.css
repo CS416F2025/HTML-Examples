@@ -1,1 +1,7 @@
-
+body {
+    background-color: aliceblue;
+}
+p {
+        color: chocolate;
+        font-style: italic;
+}
